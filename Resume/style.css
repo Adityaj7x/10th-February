@@ -1,0 +1,197 @@
+
+/* Yaha Se Resume Wala part Shuru Hua */
+#main {
+    margin-left: 250px;
+    width: 1000px;
+    height: 1500px;
+    border: 1px solid black;
+}
+
+.Header1 {
+    width: auto;
+    height: 250px;
+    background-color: #ced7df;
+}
+
+.Header2 {
+    width: 100%;
+    height: auto;
+}
+
+#dp {
+    margin-left: 400px;
+    /* padding-bottom: 400px; */
+    height: 300px;
+    width: 200px;
+    overflow: visible;
+    position: relative;
+    top: 100px;
+}
+
+.myname {
+    text-align: center;
+    margin-top: 150px;
+    padding-top: 10px;
+    font-family: Questrial;
+    font-size: 40px;
+    font-weight: lighter;
+    letter-spacing: 2px;
+    font-stretch: wider;
+}
+
+.belowname {
+    border-top: 4px solid #eff0f2;
+    padding: 5px;
+    margin: 0px 175px;
+}
+
+.belowtopline {
+    /* border: 1px solid black; */
+    padding: 1px;
+}
+
+.contentbox {
+    display: inline-block;
+    width: 960px;
+    height: 960px;
+    margin: 20px;
+    /* border: 1px solid blue; */
+    
+}
+
+.contentboxleft {
+    max-width: 35%;
+    padding-left: 50px;
+    padding-right: 90px; /*Yaha changes karne hai*/
+    font-family: Arial, Helvetica, sans-serif;
+    border-right: 2px solid #eff0f2;
+    float: left;
+    height:auto;
+    padding-bottom: 16px;
+    
+}
+
+.contentboxright {
+    max-width: 35%;
+    float: right;
+    font-family: Arial, Helvetica, sans-serif;
+    border-left: 3px solid #eff0f2;
+    height: auto;
+    padding-left: 83px; /*Yaha changes karne hai*/
+    padding-right: 60px;
+}
+
+
+.headingleft {
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+
+.dataleft {
+    margin: 0px;
+    padding: 0px;
+    padding-top: 5px;
+    margin-bottom: 30px;
+}
+
+.leftmainheading {
+    color: #a4a4aa;
+    font-size: 20px;
+    padding-top: 0px;
+    margin-bottom: 15px;
+
+}
+
+.leftmainheading1 {
+    color: #a4a4aa;
+    font-size: 20px;
+    padding: 0px;
+    margin: 0px;
+
+}
+
+/*---------- Right ------------*/
+
+
+.headingright { 
+    padding-left: 0px;  
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+}
+
+.dataright {
+    margin: 0px;
+    padding: 0px;
+    padding-top: 5px;
+    margin-bottom: 15px; 
+}
+
+.rightmainheading {
+    color: #a4a4aa;
+    font-size: 20px;
+    padding-top: 0px;
+    margin-bottom: 10px;
+}
+
+.rightmainheading1 {
+    color: #a4a4aa;
+    font-size: 20px;
+    padding-bottom: 15px;
+    margin: 0px;
+}
+
+ul {
+    margin: 0px;
+    padding: 0px;
+    padding-left: 15px;
+    padding-bottom: 25px;
+}
+
+/* Yaha Resume wala part khatam hua */
+
+
+/* nav {
+    
+    margin: 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+li a {
+    
+    display: block;
+    color: #666;
+    padding: 14px 16px 14px 16px;
+    text-decoration: none;
+    float: right;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.logo {
+    float: left;
+    height: 50px;
+}
+
+#header {
+    padding: 0px 0px 25px 0px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+    background-image: linear-gradient(#da8f8f, #9c882c)
+}
+
+/* ============================== */
+
+
+/* #websitebanner {
+    background-image: url("images/banner.png");
+    height: 300px;
+    width: 1200px;
+    padding-top: 50px;
+    color: #fff;
+    margin-top: 25px;
+    margin-bottom: 50px;
+} */
